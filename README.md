@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K-web04
 - 👀 I’m interested in coding c++
-- 🌱 I’m currently learning javascript , react, c++
+- 🌱 I’m currently learning javascript , react,Nodejs ,expressjs, MONGODB , RESTAPI,C++
 - 💞️ I’m looking to collaborate on open source contribution
 - 📫 How to reach me kumarkriti01@gmail.com
 
