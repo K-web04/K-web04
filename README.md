@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Nodejs, Expressjs, Mongodb, Mongoose**
 
-- 📫 How to reach me **kumarkriti01@gmail.com**
+- 📫 How to reach me **kumarkriti26@gmail.com**
 
 - 📄 Know about my experiences [resume](resume)
 
